@@ -1,0 +1,4 @@
+python3 ./preprocessing/csv_to_records.py --label0=codierte_Marken --label1=uncodierte_Marken --label2=codierte_Marken_2 --csv_input=./workspace/training_demo/annotations/train_labels.csv --img_path=./workspace/training_demo/images/train  --output_path=./workspace/training_demo/annotations/train.record
+
+_input=./workspace/training_demo/annotations/train_labels.csv --img_path=./workspace/training_demo/images/train  --ou
+python3 ./preprocessing/csv_to_records.py --label0=codierte_Marken --label1=uncodierte_Marken --label2=codierte_Marken_2 --csv_input=./workspace/training_demo/annotations/test_labels.csv --img_path=./workspace/training_demo/images/test  --output_path=./workspace/training_demo/annotations/test.record

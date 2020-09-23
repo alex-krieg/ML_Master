@@ -1,0 +1,1 @@
+python3 model_main.py --alsologtostderr --model_dir=training/ --pipeline_config_path=training/ssd_inception_v2_coco.config
