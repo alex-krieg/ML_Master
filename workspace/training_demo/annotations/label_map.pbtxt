@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'codierte_Marken'
+}
+
+item {
+    id: 2
+    name: 'uncodierte_Marken'
+}
+
+item {
+    id: 3
+    name: 'codierte_Marken_2'
+}
